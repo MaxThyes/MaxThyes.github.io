@@ -7,7 +7,7 @@ categories: jekyll update
 # Make a web page with Jekyll
 The first assignment is a two part task. One make a web page and that's what this post will be about, how I made a web page with *Jekyll* without having any prior knowlage about web development. We'll host the site on **GitHub**. 
  
-# Befor starting
+# Before starting
 Before one starts with the page there are a couple ting that needs to be done. Not all of the  following points are mandatory, but the way i did it one will need to have instaled all the programms.
 1. Homebrew
 2. Ruby
