@@ -31,7 +31,7 @@ One can now go to a web browser and use the following address:*localhost:4000*. 
 In the terminal, press *ctrl-c* to stop the local host.
 Now copy all the files from the folder *Jekyll* made to the folder made by *GitHub Desktop*. Commit and push all the files to ones online repository. This will take some time the first try. To make sure *GitHub* konws what file to start with. Go to **github.com/"username"/"username#.github.io** -> **Settings** -> **Pages** and check *Branch*, one wants to have selected *main* and */root*
 
-# Adjust the templet and add posts
+# Adjust the template and add posts
 The page that was just made is an example page filled with example content. Go to the first post on the page and there are an instruction on how to add posts and change the content on the page. When adding new posts one must remember formatting the file name and the location to save the file. All this is mentioned in the first post. One of the advantages of *Jekyll* is that one can write the files with *markdown* and *Jekyll* converts it to HTML. When a new post is added to the *_posts* folder one will need to tell *Jekyll* a new post is added. To do this open the terminal, navigate to the folder of your page and use the following command:
 **jekyll build**
 Open *GItHub Desktop*, commit and push the new post.
