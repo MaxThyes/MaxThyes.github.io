@@ -9,7 +9,7 @@ Første gjøremål for faget ADA525 som undervises ved HVL skal man lage seg en 
 
 ## Før man starter
 Før man kan sette i gang med nettsiden er det et par ting som må være på plass. Det er følgende:
-1. Honedew
+1. Homebrew
 2. Ruby
 3. Jekyll
 4. GitHub Desktop
